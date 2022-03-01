@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Caroli regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. In the 16 yeer of the reign of our most gracious soveraign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02947</idno>
+            <idno type="STC">Wing E1099A</idno>
+            <idno type="STC">ESTC R175034</idno>
+            <idno type="EEBO-CITATION">52612399</idno>
+            <idno type="OCLC">ocm 52612399</idno>
+            <idno type="VID">179429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179429)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2788:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Caroli regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, decimo septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. In the 16 yeer of the reign of our most gracious soveraign Lord, Charles, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border.</note>
+                  <note>Text of acts in black letter; royal arms on frontispiece; initial letter.</note>
+                  <note>Contains two acts of Parliament.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>Act for the better raising and levying of mariners, sailors, and others, for the present guarding of the seas, and necessary defence of the realm, and other his Majesties dominions -- Act for the relief of the captives, taken by Turkish, Moorish, and other pirates, and to prevent the taking of others in time to come.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Recruiting, enlistment, etc. --  Law and legislation --  Early works to 1800.</term>
+               <term>Naval law --  England --  17th century --  Sources.</term>
+               <term>Pirates --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179429:1"/>
+            <!-- PDF PAGE 50 -->
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>ANNO REGNI CAROLI REGIS ANGLIAE, SCOTIAE, FRANCIAE, &amp; HIBERNIAE, DECIMO SEPTIMO.</p>
+            <p>At the Parliament begun at <hi>Weſtminſter</hi> the third day of November, <hi>Anno Dom.</hi> 1640.</p>
+            <p>In the 16. yeer of the Reign of our moſt gracious Soveraign Lord, CHARLES, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</p>
+            <p>LONDON, Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL.</p>
+            <p>1641.</p>
+            <p>
+               <hi>Cum Privilegio.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="frontispiece">
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:179429:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:179429:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <head>ANNO XVII. Caroli Regis.</head>
+            <head>¶ An Act for the better Rai<g ref="char:EOLhyphen"/>ſing and Levying of Mariners, Sailers, and others, for the preſent guarding of the Seas, and neceſſary defence of the Realm, and other His Maje<g ref="char:EOLhyphen"/>ſties Dominions.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas there was an Act</hi> this preſent Parliament, intituled, <hi>An Act for the bet<g ref="char:EOLhyphen"/>ter raiſing and levying of Mariners, Sailers, and others, for the preſent guarding of the Seas, and neceſſary defence of the Realm:</hi> which Act is now expired: And where<g ref="char:EOLhyphen"/>as alſo a Fleet is now in preparing to be ſet forth with all expedition for the guarding of the narrow Seas, and neceſſary de<g ref="char:EOLhyphen"/>fence of this Realm, and other His Majeſties Do<g ref="char:EOLhyphen"/>minions in this time of imminent danger, which cannot accordingly be performed, unleſſe the ſame be
+<pb facs="tcp:179429:3"/>
+               <!-- PDF PAGE 52 -->furniſhed with fit and ſufficient men for that Ser<g ref="char:EOLhyphen"/>vice;</p>
+            <p>Be it therefore enacted by the Authority of this preſent Parliament, That the Lord Admirall that now is, ſhall and may, at any time or times, between the tenth day of December <hi>1641.</hi> and the firſt of November next coming, by himſelf, his Vice-Admi<g ref="char:EOLhyphen"/>rall, Commiſſioner, or Commiſſioners, or other Of<g ref="char:EOLhyphen"/>ficer or Officers, or any of them, together with one or more Iuſtices of the peace, next the place where any Preſſe ſhall be made, ſhall Raiſe, Levie, and Impreſſe ſuch, and ſo many Mariners, Sailers, Watermen, Chirurgions, Gunners, and Ship-Carpenters, as ſhall be requiſite and neceſſary for this preſent Expedition, or for any ſuch further de<g ref="char:EOLhyphen"/>fence of the Realm, or any other of His Majeſties Dominious; Which ſaid Mariners, Sailers, &amp; other ſuch perſons ſo to be Levied and Impreſſed, as aforeſaid, and every of them, ſhall have paid and delivered unto him upon ſuch his Impreſſing, by the perſon that ſhal ſo Impreſſe him, for Conduct money for every mile from the place where he ſhal be ſo Im<g ref="char:EOLhyphen"/>preſſed, to the Ship or place to which he ſhall be ap<g ref="char:EOLhyphen"/>pointed to make his repair, the ſum of one peny, and the like ſum of one peny for every mile from the place of his diſcharge unto the place of his abode, and ſhall be allowed for his Service the beſt Wages and entertainment which have or hath been allowed by His Majeſtie, to any ſuch perſon or perſons re<g ref="char:EOLhyphen"/>ſpectively, at any time within three yeers laſt paſt. And if any Mariner, Sailer, Waterman, Chirur<g ref="char:EOLhyphen"/>geon, Gunner, or Ship-Carpenter, ſhall wilfully refuſe to be Impreſſed, in, or for the ſaid Service, or ſhall voluntarily hide and abſent himſelf at the time
+<pb facs="tcp:179429:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 52 -->of ſuch Preſſe, to avoid the ſaid Service, That then every ſuch perſon ſo offending ſhall ſuffer Impri<g ref="char:EOLhyphen"/>ſonment by the ſpace of three moneths without bail or mainpriſe.</p>
+            <p>Provided alwayes, that this Act ſhall not extend to the Preſſing of any Maſter, or Maſters-mate, Gunner, Carpenter, or Boatſwain of any Ship or Veſſell that is or ſhall be in imployment, or of above one of ten Mariners of any Ships that ſhall be in<g ref="char:EOLhyphen"/>ward or outward bound, nor to any perſon that ſhall be under the age of eighteen, or above the age of fifty, nor to any perſon that was rated in the laſt Subſidies, or ſhall be rated in any Subſidies hereaf<g ref="char:EOLhyphen"/>ter to be granted before the time of his being Im<g ref="char:EOLhyphen"/>preſſed.</p>
+            <p>Provided alwayes, and be it enacted, That no Money, or other reward, ſhall be taken, or any cor<g ref="char:EOLhyphen"/>rupt practiſe uſed by any the perſons authorized by this Act, in or for the Preſſing, Changing, Sparing, or Diſcharging of any perſon or perſons to be Im<g ref="char:EOLhyphen"/>preſſed by force of this Act, under pain of forfeiture of twenty pounds by the perſon ſo offending for every ſuch offence, the one half to His Majeſtie, His Heirs and Succeſſours, the other half to him that will ſue for the ſame, to be recovered by Action of debt, Bill, Plaint, or Information in any of His Majeſties Courts of Record, or before the Iuſtices of Aſſiſe, Oyer and Terminer, Goal-Delivery, or the Iuſtices of the Peace of the County, City, or Town-Corporate where ſuch offence ſhall be com<g ref="char:EOLhyphen"/>mitted, at their generall quarter Seſſions, wherein no Wager of Law, Eſſoign, Protection, or Injuncti<g ref="char:EOLhyphen"/>on ſhall be admitted or allowed.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:179429:4"/>
+            <!-- PDF PAGE 53 -->
+            <pb facs="tcp:179429:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <head>
+               <g ref="char:leaf">❧</g> ANNO XVII. Caroli Regis.</head>
+            <head>
+               <g ref="char:leaf">❧</g> An Act for the Relief of the Captives, taken by Turkiſh, Mooriſh, and other Pirates, and to prevent the taking of others in time to come.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas many thouſands</hi> of your Majeſties good and loving Subjects with their Ships and goods, have of late time been ſurpriſed and taken at Sea (as they were in their lawfull trading) by Turkiſh, Mooriſh, and other Pirats; And ſome of them, to free themſelves of the cruell and bar<g ref="char:EOLhyphen"/>barous uſage of thoſe Pirats, have renounced the Chriſtian Religion, and turned Turks; And others yet kept in bondage, are uſed with ſo extream cruelty, as they are in great danger thereby to loſe their
+<pb facs="tcp:179429:5"/>
+               <!-- PDF PAGE 54 -->lives, unleſſe they ſhall alſo forſake the Chriſtian Religion: And divers of thoſe Your Subjects kept in bondage (being expert and ſkilfull Mariners) are uſually imployed at Sea againſt others Your good Subjects, and prove very prejudiciall to them, and hurtfull to the Trade and Merchandiſe of Your Majeſties Dominions: And whereas, aſwell Your Majeſties Subjects, as ſtrangers Exporting, or Importing their Goods and Merchandize into this Kingdom, have ever ſithence Your Majeſties ac<g ref="char:EOLhyphen"/>ceſſe unto this Crown, been charged with the pay<g ref="char:EOLhyphen"/>ment of great ſums of Money, under the name of Cuſtom, and that without conſent of Parliament, which had they been legally taken, ought to have been chiefly imployed to the ſafeguard of the Seas, and preſervation of Your good Subjects in their Trade of Merchandize from the ſpoil of Pirats, and other Sea robbers, but have been exhauſted by evil Miniſters, and not applied to their proper uſes, ſo that Your Highneſſe good Subjects have been expoſed to the mercileſſe cruelty of thoſe Pirats, and barbarous Infidels.</p>
+            <p>And the Commons taking into further conſidera<g ref="char:EOLhyphen"/>tion Your Majeſties preſſing wants, and great occa<g ref="char:EOLhyphen"/>ſions of Moneys in theſe times of diſtemper, as well in the Kingdom of <hi>Ireland,</hi> as other Kingdoms of Forraign Princes, ſo that there will be required ſome further aid to inable Your Highneſſe to effect ſo great a Work, beſides the preſent Tunnage and Pound<g ref="char:EOLhyphen"/>age now granted to Your Majeſtie; Have therefore for this preſent preſſing occaſion, and for a time here<g ref="char:EOLhyphen"/>after limited, taken into their Reſolutions a further way of raiſing a Supply of Moneys, for the provi<g ref="char:EOLhyphen"/>ding and ſetting forth to the Seas a Navie, as well
+<pb facs="tcp:179429:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 54 -->for the enlargement and deliverance of thoſe poore Captives in <hi>Argier,</hi> and other places, if Almightie God ſhall ſo pleaſe to give that Bleſſing unto their enterpriſes, as alſo for the preventing of the like fu<g ref="char:EOLhyphen"/>ture dangers unto Your good people, their Perſons, Ships, and Merchandizes; Do therefore pray Your moſt Excellent Majeſtie, That it may be En<g ref="char:EOLhyphen"/>acted, and be it Enacted by authority of this preſent Parliament, That where any Subſidie, Cuſtome, or other dutie, after the nine and twentieth day of September, in the yeer one thouſand ſix hundred fourty one, and before the four and twentieth day of Iune then next following, ſhall be laid or impoſed by authority of Parliament, upon any Goods, Wares, or other Merchandize, of what nature, kinde, or qua<g ref="char:EOLhyphen"/>litie ſoever, to be Exported out of, or Imported into this Your Majeſties Realm of <hi>England,</hi> or Domini<g ref="char:EOLhyphen"/>on of <hi>Wales,</hi> That one other ſum of one in the hun<g ref="char:EOLhyphen"/>dred, according to the Rates to be eſtabliſhed by Parliament, within the time aforeſaid, over and above the ſaid Cuſtome, Subſidie, or dutie, ſo to be laid or impoſed, ſhall be raiſed, levied, and paid, from, and after the tenth day of December, in the yeer one thouſand ſix hundred fourty one a<g ref="char:EOLhyphen"/>foreſaid, of and from all and every ſuch goods, wares and other Merchandize, to be imported into, or ex<g ref="char:EOLhyphen"/>ported out of this Your Majeſties ſaid Realm of <hi>England</hi> or Dominion of <hi>Wales,</hi> the ſaid ſumme of one in the hundred to be raiſed, levied and paid for the ſpace of three yeers next after the ſaid tenth day of December, and no longer; And received and taken by the Lord Major and Chamberlain of <hi>London</hi> for the time being, their Deputies, or Deputée, and by them the ſaid Lord Major and Chamberlain of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+               <pb facs="tcp:179429:6"/>
+               <!-- PDF PAGE 55 -->for the time being, to be layed out, payed and imployed for providing and ſetting out to ſea and maintaining of one or more Fleet or Fleets of good and ſerviceable ſhips, and other neceſſaries to be uſed and imploied for the purpoſes aforeſaid, in ſuch ſort as by Order of a Committee of the Houſe of Lords, and a Committee of the Houſe of Commons in Par<g ref="char:EOLhyphen"/>liament of this Your Majeſties Realm of <hi>England</hi> ſhall be directed. And ſuch Lord Major and Chamberlain of <hi>London,</hi> who ſhall receive or diſ<g ref="char:EOLhyphen"/>burſe any the monies aforeſaid, ſhall be accountable and account for all, and every their receipts and diſ<g ref="char:EOLhyphen"/>burſements afore mentioned, to the ſaid Committee, or to ſuch perſon or perſons, as the ſaid Committee ſhall Order and appoint.</p>
+            <p>And be it alſo enacted by the authority aforeſaid, That if any goods, wares or other Merchandize, whereof the ſum of one in the hundred aforeſaid is or ſhall be due and paiable by vertue of this Act, ſhall at any time hereafter be ſhipped or put into any Boat or other Veſſell, to the intent to be carried into the parts beyond the Seas, or elſe be brought from the parts beyond the Seas into any part of this Your Realm of <hi>England</hi> or Dominion of <hi>Wales,</hi> by way of Merchandize, and unſhipped to be laid on land, the ſumme of one in the hundred as aforeſaid, due or to be due for the ſame, not payed or lawfully tende<g ref="char:EOLhyphen"/>red and ſecured to be payed to the Major and Chamberlain of <hi>London,</hi> for the time being, or their Deputy, or Deputies for the uſes aforeſaid; all the ſame Goods, Wares, and other Mer<g ref="char:EOLhyphen"/>chandize whatſoever, ſhall be forfeited and loſt; The one Moity of the rate or value thereof, to be to him, or them, that will ſeize, or ſue for the ſame;
+<pb facs="tcp:179429:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 55 -->and the other Moitie to be imployed to, and for the uſes before expreſſed.</p>
+            <p>And for the better incouragement of Mariners to undertake the ſaid ſervice, and Owners of Ships to let out their Ships for the ſaid imployment, Be it further Enacted by the Authority aforeſaid, That if any Ships, goods, or Merchandize of the ſaid Pirats, or of the ſubjects of any that are, or ſhall be in enmi<g ref="char:EOLhyphen"/>ty with your Majeſtie, your Heirs or Succeſſors; or the Perſon of any ſuch Pirates ſhall be taken by the Ships, to be imploied in the ſervice before mentioned, that one fourth part thereof ſhall be to the Mariners that ſhall take the ſame, and one other fourth part to the Owners of the ſaid Ships, over and above their Hire, and Wages; and the other two fourth parts, to, and for ſuch uſes, as the ſaid Committees ſhall order and appoint; and the overplus of the Money to be raiſed by vertue of this Act, and not imployed to, and for the ſervice afore mentioned (if any ſhall be) ſhall alſo be imployed according to the Order of the ſame Committees.</p>
+            <p>And be it further Declared and Enacted by the Authority aforeſaid, that this preſent Act for the rai<g ref="char:EOLhyphen"/>ſing of Moneys for the ſetting forth of Ships for the ſuppreſſing of Pirates, and ſafety of Merchants, ſhall not hereafter be drawn into example, but that Your Majeſty would in time to come, be pleaſed to in truſt ſuch Miniſters, as may faithfully imploy the Moneys raiſed by Tonnage and Poundage unto the right and proper uſes, for the guarding of the Seas, &amp; ſafety of Merchants, which will advance the Honour of Your Sacred Majeſtie abroad, and procure the ſafety, peace, and happineſſe of Your High<g ref="char:EOLhyphen"/>neſſe loyall and faithfull ſubjects at home.</p>
+            <pb facs="tcp:179429:7"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:179429:7"/>
+            <!-- PDF PAGE 56 -->
+         </div>
+      </body>
+   </text>
+</TEI>
